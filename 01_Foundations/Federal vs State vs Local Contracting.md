@@ -1,24 +1,26 @@
-Federal Contracting -
+Federal Contracting:
 
 **What is it?**
 
-Contracts with U.S Federal Agencies 
+Contracts with U.S Federal Agencies.
+
+
 
 ---
 
-State Contracting - 
+State Contracting:
 
 **What is it?**
 
-Contracts with State Governments
+Contracts with State Governments.
 
 ---
 
-Local Contracting - 
+Local Contracting:
 
 **What is it?**
 
-Contracts with cities, counties, school districts, and utilities
+Contracts with cities, counties, school districts, and utilities.
 
 ---
 
