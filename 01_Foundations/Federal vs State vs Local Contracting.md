@@ -1,5 +1,9 @@
 Federal Contracting:
 
+**Contract size**
+
+- $50k --> $100M+
+
 **What is it?**
 
 Contracts with U.S Federal Agencies.
@@ -18,7 +22,7 @@ State Contracting:
 
 **Contract Size**
 
-- 10k 
+- $10k --> $5M
 
 **What is it?**
 
@@ -35,9 +39,24 @@ State Procurement portals (e.g, Cal eProcure, Texas SmartBuy)
 
 Local Contracting:
 
+**Contract Size**
+
+- $1k --> $250k
+
 **What is it?**
 
 Contracts with cities, counties, school districts, and utilities.
+
+- Very Fast 
+- Minimal Compliance 
+- Relationships Matter 
+- Small Budgets
+
+**Location**
+
+City & county websites 
+
+School distric
 
 ---
 
