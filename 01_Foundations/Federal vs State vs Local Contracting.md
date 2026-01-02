@@ -8,11 +8,13 @@ State Contracting -
 
 **What is it?**
 
-COntracts with State Governments
+Contracts with State Governments
 
 Local Contracting - 
 
 **What is it?**
+
+Contracts with cities, counties, school districts, utilities
 
 
 
