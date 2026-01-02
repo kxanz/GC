@@ -56,7 +56,9 @@ Contracts with cities, counties, school districts, and utilities.
 
 City & county websites 
 
-School distric
+School district RFP pages
+
+Local Procurement offices
 
 ---
 
