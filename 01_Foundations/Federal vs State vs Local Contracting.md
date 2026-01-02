@@ -10,15 +10,26 @@ Contracts with U.S Federal Agencies.
 
 **Location**
 
-S
+[Sam.gov](https://sam.gov)
 
 ---
 
 State Contracting:
 
+**Contract Size**
+
+- 10k 
+
 **What is it?**
 
 Contracts with State Governments.
+
+- Each state has its own rules 
+- Best for Saas, web apps, IT consulting, data systems
+
+**Location**
+
+State Procurement portals (e.g, Cal eProcure, Texas SmartBuy)
 
 ---
 
